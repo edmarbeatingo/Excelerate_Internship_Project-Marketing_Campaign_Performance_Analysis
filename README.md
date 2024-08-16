@@ -1,0 +1,2 @@
+# Excelerate_Internship_Project-Marketing_Campaign_Performance_Analysis
+An internship in the role of a Data Analyst at Excelerate working on a project for our partner GlobalShala. The internship will analyze data from the Marketing team on Facebook ad campaigns they ran for an event called Superhero U.  The Marketing team needs help in identifying at least one campaign to discontinue in order to cut costs.
